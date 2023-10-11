@@ -3,12 +3,12 @@
 
 Welcome to the simulation focused on exploring the properties of the renowned Hodgkin-Huxley equations. This simulation delves into key aspects of the Hodgkin-Huxley equations, investigating their behavior and characteristics. Specifically, we will explore the following four features that are observed physiologically:
 
-## Features Explored:
+### Features Explored:
 
-### 1. Threshold
-### 2. Refractoriness - Absolute and Relative
-### 3. Repetitive Activity
-### 4. Temperature Dependence
+- 1. Threshold
+- 2. Refractoriness - Absolute and Relative
+- 3. Repetitive Activity
+- 4. Temperature Dependence
 
 ## Instructions to Setup
 1.Download the all files in one directory
