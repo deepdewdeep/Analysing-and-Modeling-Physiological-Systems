@@ -30,3 +30,6 @@ The Hodgkin-Huxley equations provide a fundamental understanding of how neurons 
 ### 4. Temperature Dependence
  - Observe the effects of different temperatures on the duration and amplitude of action potentials.
  - Analyze how temperature influences various features of the action potential.
+
+## Disclaimer
+This simulation is designed exclusively for educational purposes. It is not intended to substitute professional advice or formal coursework. The primary objective is to facilitate an in-depth understanding of the essential properties of the Hodgkin-Huxley equations through simulation and analysis. Users are encouraged to utilize this resource responsibly and in an educational context, acknowledging its limitations as a tool for learning and research
