@@ -6,7 +6,7 @@ Welcome to the simulation focused on exploring the properties of the renowned Ho
 ### Features Explored:
 
  1. Threshold
-- 2. Refractoriness - Absolute and Relative
+ 2. Refractoriness - Absolute and Relative
 - 3. Repetitive Activity
 - 4. Temperature Dependence
 
