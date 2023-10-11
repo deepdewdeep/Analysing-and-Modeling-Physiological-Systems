@@ -16,3 +16,17 @@ The Hodgkin-Huxley equations provide a fundamental understanding of how neurons 
 ## Instructions to Setup
 1. Download the all files in one directory
 2. Run the MATLAB Livescript.
+
+## Simulation Steps
+1. Threshold
+- Explore the concept of threshold by applying sub-threshold and supra-threshold current pulses.
+- Observe the behavior of the Hodgkin-Huxley equations in response to different current amplitudes.
+2. Refractoriness
+- Investigate absolute and relative refractory periods.
+- Study the relationship between consecutive action potentials and stimulus amplitudes.
+3. Repetitive Activity
+- Examine repetitive activity by eliciting multiple action potentials with long duration supra-threshold currents.
+- Determine the threshold for repetitive activity as a function of the inter-stimulus interval.
+4. Temperature Dependence
+- Observe the effects of different temperatures on the duration and amplitude of action potentials.
+- Analyze how temperature influences various features of the action potential.
