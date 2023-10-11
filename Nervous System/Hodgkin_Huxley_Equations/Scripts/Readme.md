@@ -10,6 +10,9 @@ Welcome to the simulation focused on exploring the properties of the renowned Ho
  3. Repetitive Activity
  4. Temperature Dependence
 
+## Overview
+The Hodgkin-Huxley equations provide a fundamental understanding of how neurons generate and propagate action potentials. This simulation will enable to observe and analyze these properties, shedding light on how neurons respond to electrical stimulation.
+
 ## Instructions to Setup
 1. Download the all files in one directory
 2. Run the MATLAB Livescript.
