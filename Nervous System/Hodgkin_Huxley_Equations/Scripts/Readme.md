@@ -11,5 +11,5 @@ Welcome to the simulation focused on exploring the properties of the renowned Ho
  4. Temperature Dependence
 
 ## Instructions to Setup
-1.Download the all files in one directory
-2.Run the MATLAB Livescript.
+1. Download the all files in one directory
+2. Run the MATLAB Livescript.
